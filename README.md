@@ -48,10 +48,13 @@ The `Flask` server provides the backend functionality for user registration and 
 - Python installed on your machine
 - Flask 
 
-## Setup
 
+## Setup
 1. Navigate to the `backend` directory:
    ```cd backend```
+2. install requirement.txt file
+   ```pip install -r requirements.txt```
+
 ## Running the Server
 1. Start the Flask server:
   ```python app.py```
