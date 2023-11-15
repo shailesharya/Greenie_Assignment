@@ -28,14 +28,14 @@ The `AccountCreation` component provides a form for creating user accounts. It i
 - Ensure the server is running.
 
 - Install dependencies:
-  npm install
+  ```npm install```
 
 - Run the application:
-  npm start
+  ```npm start```
 
 - Open your browser and navigate to http://localhost:3000 to view the AccountCreation form
 
-## Flask Server
+# Flask Server
 
 The `Flask` server provides the backend functionality for user registration and data retrieval. Follow these steps to set up and run the server:
 
@@ -47,14 +47,10 @@ The `Flask` server provides the backend functionality for user registration and 
 ## Setup
 
 1. Navigate to the `backend` directory:
-   ```
-   cd backend
-   ```
+   ```cd backend```
 ## Running the Server
 1. Start the Flask server:
-  ```
-  python app.py
-  ```
+  ```python app.py```
 2. The server will run at http://127.0.0.1:5000/
 
 ## Server Endpoints
